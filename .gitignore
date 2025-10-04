@@ -1,0 +1,54 @@
+# Arduino IDE files
+*.hex
+*.elf
+*.map
+*.lst
+*.sym
+*.lss
+*.eep
+*.srec
+*.bin
+*.ino.cpp
+*.ino.with_bootloader.hex
+*.ino.with_bootloader.bin
+
+# Build directories
+build/
+*.build/
+
+# Libraries (if using library manager)
+libraries/
+
+# Temporary files
+*~
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-*
+
+# Log files
+*.log
+
+# Compiled Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+*.app
